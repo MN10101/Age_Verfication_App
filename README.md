@@ -7,10 +7,10 @@ This Java application, **AgeVerifier**, is a simple age verification program tha
 - Compile and run the `AgeVerifier` class.
 - The program will prompt you to enter your age.
   
-2.**Enter Age:**
+2. **Enter Age:**
 - Input your age when prompted.
   
-3.**Access Confirmation:**
+3. **Access Confirmation:**
 - If your age is 18 or older, the program will confirm access to the website.
 - If your age is below 18, a custom exception (`UnderageException`) will be thrown, and an error message will be displayed.
 - 
