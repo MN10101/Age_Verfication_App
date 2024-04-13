@@ -27,6 +27,10 @@ This Java application, **AgeVerifier**, is a simple age verification program tha
   
 - **Resource Cleanup:**
 - The `Scanner` is closed in the `finally` block to release resources.
+
+## Author
+
+- Mahmoud Najmeh
   
 ## Example
 ```java
